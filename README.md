@@ -30,4 +30,4 @@ Atualmente, meus estudos estão voltados para Engenharia de Software, Arquitetur
 </table>
 </samp>
 
-[![Linkedin](https://img.shields.io/badge/-Jonas%20Brito-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasexplore)](https://www.linkedin.com/in/jonasexplore) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasexplore)](https://www.linkedin.com/in/jonasexplore) 
