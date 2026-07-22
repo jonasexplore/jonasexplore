@@ -2,15 +2,24 @@
   
 ## :crystal_ball: Jonas Brito :brazil:
 
-#### :octocat: Full-stack Developer | Major back-end developer | Software engineer.
+#### :octocat: Full-stack Developer | Software engineer.
 
 <table cellspacing="0" cellpadding="0">
 <tr style="padding: 0">
 <td width="75%">
-I currently work as a Full-stack developer, I deal daily with new challenges that allow me to acquire more experience and knowledge, ranging from TDD applications to microservices. I am in the final stretch of my graduation in Information Systems at Centro Universitário Paraíso do Ceará, where I have contact with new technologies and the solidification of my theoretical bases.
-<br />
-<br />
-And daily I look to delve into new technologies and software architectures. Like which, I use in personal projects, some of which are: Nodejs, Express, Prisma 2, TDD, GraphQl, ReactJs, NextJs, styled-components, NestJs, Jest, AWS and others.
+Sou Desenvolvedor Full Stack Sênior, apaixonado por construir aplicações escaláveis, performáticas e com foco em qualidade de software.
+<br/>
+<br/>
+Atuo no desenvolvimento de aplicações web e APIs, trabalhando com arquiteturas modernas, microsserviços, computação em nuvem e boas práticas como Clean Architecture, TDD e CI/CD. Gosto de transformar problemas complexos em soluções simples, priorizando desempenho, manutenibilidade e uma excelente experiência para o usuário.
+<br/>
+<br/>
+Tenho experiência com tecnologias como Node.js, NestJS, TypeScript, React, Vite, Next.js, Prisma, PostgreSQL, Redis, GraphQL, AWS, Serverless Framework, TanStack Query, TanStack Router, Tailwind CSS, Jest e outras ferramentas do ecossistema JavaScript/TypeScript.
+<br/>
+<br/>
+Além da minha atuação profissional, desenvolvo projetos pessoais, onde experimento novas tecnologias, arquiteturas e padrões de desenvolvimento. Acredito que aprender continuamente é uma das principais características de um bom engenheiro de software.
+<br/>
+<br/>
+Atualmente, meus estudos estão voltados para Engenharia de Software, Arquitetura de Sistemas Distribuídos, Cloud Computing, Segurança de Aplicações e Inteligência Artificial, além do aperfeiçoamento constante do inglês.
 </td>
 <td>
 <p align="right">
@@ -21,5 +30,4 @@ And daily I look to delve into new technologies and software architectures. Like
 </table>
 </samp>
 
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-1f6feb?style=flat-square&labelColor=1f6feb&logoColor=white&link=https://app.rocketseat.com.br/me/fallying)](https://app.rocketseat.com.br/me/fallying)
 [![Linkedin](https://img.shields.io/badge/-Jonas%20Brito-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasexplore)](https://www.linkedin.com/in/jonasexplore) 
