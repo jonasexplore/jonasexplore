@@ -7,19 +7,19 @@
 <table cellspacing="0" cellpadding="0">
 <tr style="padding: 0">
 <td width="75%">
-Sou Desenvolvedor Full Stack Sênior, apaixonado por construir aplicações escaláveis, performáticas e com foco em qualidade de software.
+I'm a Senior Full Stack Developer passionate about building scalable, high-performance applications with a strong focus on software quality.
 <br/>
 <br/>
-Atuo no desenvolvimento de aplicações web e APIs, trabalhando com arquiteturas modernas, microsserviços, computação em nuvem e boas práticas como Clean Architecture, TDD e CI/CD. Gosto de transformar problemas complexos em soluções simples, priorizando desempenho, manutenibilidade e uma excelente experiência para o usuário.
+I work on the development of web applications and APIs, using modern architectures, microservices, cloud technologies, and best practices such as Clean Architecture, Test-Driven Development (TDD), and CI/CD. I enjoy solving complex problems by creating maintainable, efficient, and user-centered solutions.
 <br/>
 <br/>
-Tenho experiência com tecnologias como Node.js, NestJS, TypeScript, React, Vite, Next.js, Prisma, PostgreSQL, Redis, GraphQL, AWS, Serverless Framework, TanStack Query, TanStack Router, Tailwind CSS, Jest e outras ferramentas do ecossistema JavaScript/TypeScript.
+My experience includes technologies such as Node.js, NestJS, TypeScript, React, Vite, Next.js, Prisma, PostgreSQL, Redis, GraphQL, AWS, Serverless Framework, TanStack Query, TanStack Router, Tailwind CSS, Jest, and other tools from the JavaScript/TypeScript ecosystem.
 <br/>
 <br/>
-Além da minha atuação profissional, desenvolvo projetos pessoais, onde experimento novas tecnologias, arquiteturas e padrões de desenvolvimento. Acredito que aprender continuamente é uma das principais características de um bom engenheiro de software.
+Outside of my professional work, I actively build personal projects to explore new technologies, software architectures, and engineering practices. I believe continuous learning is essential to becoming a better software engineer.
 <br/>
 <br/>
-Atualmente, meus estudos estão voltados para Engenharia de Software, Arquitetura de Sistemas Distribuídos, Cloud Computing, Segurança de Aplicações e Inteligência Artificial, além do aperfeiçoamento constante do inglês.
+Currently, I'm focused on expanding my knowledge in Software Engineering, Distributed Systems, Cloud Computing, Application Security, and Artificial Intelligence, while continuously improving my English skills.
 </td>
 <td>
 <p align="right">
